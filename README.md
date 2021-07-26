@@ -1,2 +1,3 @@
 # API_Users
-API created with Python and Flask framework, for data storage the MongoDB (NoSQL) database was used.
+API criada em Python e Flask para cadastro de usuários, para armazenamento de dados foi utilizado MongoDB(NoSQL).
+
